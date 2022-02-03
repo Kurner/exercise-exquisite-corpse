@@ -6,8 +6,8 @@ c'était sans compter sur l'idée *un peu folle* des coachs, ☢️\
 de lancer un exercice incroyable sur **Git** ! 🥺
 
 **Git** mon meilleur ami,
-rend moi la vie facile.
-daybisous linus torvalds pour ce travail formidable !
+rends moi la vie facile.
+Daybisous Linus Torvalds pour ce travail formidable !
 
 Afin que les membres de Becode Charleroi deviennent des *Gitcodeurs*!\
 Grâce à une formidable cohésion de groupe et de l'entraîde!\
